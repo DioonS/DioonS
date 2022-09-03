@@ -9,7 +9,7 @@
 <h2 align="center"> 👨‍💻 Who am i</h2>
 
 <p align="center">
-  <samp>Early career programmer, having studied computer science but unfortunately not finished. I have several skills and I improve more and more with each passing day.<br>
+  <samp>Early career programmer, having studied Computer Science in college anhanguera of jundiaí. I have several skills and I improve more and more with each passing day.<br>
 Always willing to face challenges and learn!<br>
 Currently working with infrastructure support at Amazon.
   </samp>
