@@ -1,4 +1,4 @@
-<img width="100%" src="https://camo.githubusercontent.com/f1684f6e0a29cfb1356a7d55528f5b3782e596c19fbdf6c9d2738e1781144265/68747470733a2f2f63617073756c652d72656e6465722e76657263656c2e6170702f6170693f747970653d5761766526636f6c6f723d303063633836266865696768743d3138302673656374696f6e3d68656164657226746578743d26666f6e7453697a653d333026666f6e74436f6c6f723d66666626616e696d6174696f6e3d7477696e6b6c696e6726666f6e74416c69676e593d3335" style="max-width: 100%;"> <!-- Onda do topo -->
+<img width=100% src="https://capsule-render.vercel.app/api?type=Wave&color=2BF7EE&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/>&nbsp; <!-- Onda do topo -->
   
 <div align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Exo+2&size=23&pause=1000&color=2BF7EE&center=true&width=435&lines=Hello%2C+my+name+is+Diego+Silva!+%F0%9F%98%8A;I'm+27+years+old+%F0%9F%8E%82;I+live+in+Cajamar%2C+SP+%F0%9F%8F%A0;Welcome+to+my+Repository!+%F0%9F%91%BE" alt="Typing SVG" /></a>
@@ -22,8 +22,8 @@ Currently working with infrastructure support at Amazon.
 
 <div align="center">
   <a href="https://github.com/DioonS">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioonS&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioonS&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=DioonS&show_icons=true&theme=dark&include_all_commits=true&count_private=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DioonS&layout=compact&theme=dark"/>
 </div>
 
 <h2 align="center"> 🔭 Languages and more</h2>
@@ -72,3 +72,5 @@ Currently working with infrastructure support at Amazon.
  
   ![Snake animation](https://github.com/DioonS/DioonS/blob/output/github-contribution-grid-snake.svg)
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2BF7EE&height=180&section=header&text=&fontSize=30&fontColor=fff&animation=twinkling&fontAlignY=35"/> 
